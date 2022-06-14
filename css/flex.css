@@ -1,0 +1,52 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color: snow;
+  margin: 6% auto;
+  width: 60%;
+  padding: 50px 15px 10px 15px;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 160px;
+  margin: 40px 0px;
+  text-align: center;
+  font-size: 30px;
+  height: 270px;
+  padding: 15px;
+}
+
+.flex-container div:nth-child(1){
+  background-color: #cd4317;
+   text-align: left;
+}
+button {
+  background-color: white;
+  color: gray;
+  border-radius: 20px;
+  margin-top: 5%;
+  margin-bottom: 2px;
+  font-size: x-small;
+  padding: 8px 13px;
+   text-align: center;
+   border: none;
+}
+h5 {
+  color: whitesmoke;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+p {
+  font-size: small;
+  margin-bottom: 25px;
+}
+.flex-container div:nth-child(2) {
+  background-color: #1e5c5e;
+  text-align: left;
+}
+
+.flex-container div:nth-of-type(3){
+  background-color: #254040;
+  text-align: left;
+}
