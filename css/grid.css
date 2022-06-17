@@ -42,3 +42,7 @@ html,body {
 	background-color: #09a1a1e6;
 	grid-area: fifth;
 }
+h5 a {
+  text-decoration: none;
+  color: snow;
+}

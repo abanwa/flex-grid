@@ -50,3 +50,7 @@ p {
   background-color: #254040;
   text-align: left;
 }
+h5 a {
+  text-decoration: none;
+  color: snow;
+}
